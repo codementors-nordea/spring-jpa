@@ -1,4 +1,4 @@
-package pl.infoshare.jpa;
+package pl.codementors.jpa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
