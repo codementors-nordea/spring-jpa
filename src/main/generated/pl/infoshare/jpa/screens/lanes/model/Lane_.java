@@ -1,11 +1,11 @@
-package pl.infoshare.jpa.screens.lanes.model;
+package pl.codementors.jpa.screens.lanes.model;
 
 import javax.annotation.Generated;
 import javax.persistence.metamodel.SetAttribute;
 import javax.persistence.metamodel.SingularAttribute;
 import javax.persistence.metamodel.StaticMetamodel;
-import pl.infoshare.jpa.positions.model.Position;
-import pl.infoshare.jpa.screens.model.Screen;
+import pl.codementors.jpa.positions.model.Position;
+import pl.codementors.jpa.screens.model.Screen;
 
 @Generated(value = "org.hibernate.jpamodelgen.JPAMetaModelEntityProcessor")
 @StaticMetamodel(Lane.class)

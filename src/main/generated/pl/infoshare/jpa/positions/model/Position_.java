@@ -1,4 +1,4 @@
-package pl.infoshare.jpa.positions.model;
+package pl.codementors.jpa.positions.model;
 
 import java.math.BigDecimal;
 import java.net.URL;
@@ -8,7 +8,7 @@ import javax.annotation.Generated;
 import javax.persistence.metamodel.SetAttribute;
 import javax.persistence.metamodel.SingularAttribute;
 import javax.persistence.metamodel.StaticMetamodel;
-import pl.infoshare.jpa.screens.lanes.model.Lane;
+import pl.codementors.jpa.screens.lanes.model.Lane;
 
 @Generated(value = "org.hibernate.jpamodelgen.JPAMetaModelEntityProcessor")
 @StaticMetamodel(Position.class)

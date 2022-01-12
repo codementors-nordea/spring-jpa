@@ -1,4 +1,4 @@
-package pl.infoshare.jpa.positions.movies.model;
+package pl.codementors.jpa.positions.movies.model;
 
 import java.time.LocalDate;
 import javax.annotation.Generated;
