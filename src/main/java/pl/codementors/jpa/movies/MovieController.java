@@ -1,12 +1,12 @@
-package pl.infoshare.jpa.movies;
+package pl.codementors.jpa.movies;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
-import pl.infoshare.jpa.movies.model.Genre;
-import pl.infoshare.jpa.movies.model.Movie;
+import pl.codementors.jpa.movies.model.Genre;
+import pl.codementors.jpa.movies.model.Movie;
 
 @RestController
 @RequiredArgsConstructor

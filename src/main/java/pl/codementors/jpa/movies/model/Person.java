@@ -1,4 +1,4 @@
-package pl.infoshare.jpa.movies.model;
+package pl.codementors.jpa.movies.model;
 
 import lombok.Data;
 
